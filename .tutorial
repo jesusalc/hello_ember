@@ -59,3 +59,13 @@ git push -u origin master
 : 1496661125:0;added initial commit, with button increment and butto toggle sample
 : 1496661159:0;put added initial commit, with button increment and button toggle sample
 : 1496661179:0;added initial commit, with button increment and butto toggle sample
+: 1496661194:0;gsb
+: 1496661196:0;commit
+: 1496661201:0;gsb
+: 1496661210:0;push 
+: 1496661224:0;gp 
+: 1496661257:0;cat /_/boxes/puma.weise.box/.temp_keys
+: 1496661274:0;pull
+: 1496661280:0;ls
+: 1496661300:0;ember server
+: 1496662796:0;added decrement button 

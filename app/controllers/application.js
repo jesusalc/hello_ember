@@ -10,6 +10,9 @@ export default Ember.Controller.extend({
     },
     incrementClicks(){
       this.set('numClicks', this.get('numClicks') + 1);
+    },
+    decrementClicks(){
+      this.set('numClicks', this.get('numClicks') - 1);
     }
   }
 });
