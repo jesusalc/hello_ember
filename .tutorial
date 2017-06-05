@@ -1,0 +1,61 @@
+: 1496573585:0;ls
+: 1496573588:0;ls app
+: 1496573604:0;ember server
+: 1496573689:0;tut To see our server: ember server
+To see our server: ember server
+: 1496573695:0;ember server
+: 1496573732:0;tut Open the browser to : http://localhost:4200/
+Open the browser to : http://localhost:4200/
+: 1496573742:0;tut you should see "welcome to ember"
+you should see welcome to ember
+: 1496573779:0;imcas
+: 1496573783:0;imacs
+: 1496573800:0;scite
+: 1496573809:0;subl . 
+: 1496574490:0;gsb
+: 1496574528:0;tut change default screen index
+change default screen index
+: 1496574545:0;echo '<h2 id="title">Hello Ember</h2>\
+\
+{{outlet}}' > app/templates/application.hbs
+: 1496574549:0;ember server
+: 1496574923:0;tut Generate a controller responsible to controller state of application 
+Generate a controller responsible to controller state of application
+: 1496574939:0;emeber g controller application 
+: 1496574942:0;ember g controller application 
+: 1496575480:0;ember server
+: 1496575616:0;ls
+: 1496575618:0;gsb
+: 1496575625:0;git remote -v
+: 1496576009:0;sshswitchkey jesus
+: 1496576014:0;git remote add origin git@github.com:jesusalc/hello-ember.git\
+git push -u origin master
+: 1496576030:0;cat /_/boxes/puma.weise.box/.temp_keys
+: 1496576052:0;cat /_/boxes/puma.weise.box/.gitignore
+: 1496576065:0;cat .gitignore
+: 1496576158:0;git log
+: 1496660661:0;cd ..cd ..
+: 1496660662:0;cd ..
+: 1496660767:0;rm -rf .git 
+: 1496660772:0;ls
+: 1496660775:0;ls vendor
+: 1496660782:0;rm -rf node_modules 
+: 1496660793:0;ü hello-ember
+: 1496660835:0;äö hello-ember hello_ember
+: 1496660848:0;ö hello-ember
+: 1496660861:0;remove hello-ember
+: 1496660897:0;ö hello-ember
+: 1496660898:0;ls
+: 1496660903:0;ls -la
+: 1496660911:0;cd ..
+: 1496660955:0;ls
+: 1496660961:0;ls -la
+: 1496660963:0;gsb
+: 1496660979:0;git log
+: 1496661038:0;git remote add origin git@github.com:jesusalc/hello_ember.git\
+git push -u origin master
+: 1496661047:0;gsb
+: 1496661076:0;subl . 
+: 1496661125:0;added initial commit, with button increment and butto toggle sample
+: 1496661159:0;put added initial commit, with button increment and button toggle sample
+: 1496661179:0;added initial commit, with button increment and butto toggle sample
