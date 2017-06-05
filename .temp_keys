@@ -1,0 +1,3 @@
+export SSH_KEY="jesus"
+export GITUSER="jesusalc"
+export JOURNAL_PUT_COMMIT_METHOD="put"
